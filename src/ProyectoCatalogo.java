@@ -3,8 +3,9 @@ import objects.Comic;
 import objects.Iphone;
 import objects.Libro;
 import objects.TvLcd;
-
 import java.util.Date;
+
+// Alumno: Maximo Camesana
 
 public class ProyectoCatalogo {
     public static void main(String[] args) {
